@@ -1,4 +1,4 @@
-# UK Freelancer Kit — full content
+# UK Freelancer Kit: full content
 
 > Free guides for UK sole traders on Making Tax Digital for Income Tax, Self Assessment deadlines, payments on account, mileage and allowable expenses (2026/27), plus the UK Sole Trader Kit, a £9 Google Sheets/Excel income, expenses and tax-estimate spreadsheet sold on Gumroad.
 
@@ -15,7 +15,67 @@ Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
 Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/about.html.md)
 
+**General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
+
 Templates only. Not tax advice.
+
+---
+Disclaimer: estimates for information only, not financial, tax or legal advice.
+
+
+<!-- https://andreiturcea-creator.github.io/uk-freelancer-kit/affiliate-disclosure.html -->
+# Affiliate disclosure | UK Freelancer Kit
+
+Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/affiliate-disclosure.html
+Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
+
+
+**Short answer:** How UK Freelancer Kit labels affiliate and referral links.
+
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/affiliate-disclosure.html.md)
+
+Last updated 15 October 2026.
+
+UK Freelancer Kit is free to use. To help pay for it, some links may be **affiliate or referral links**. If you click one and sign up or buy, we may earn a commission or credit, at no extra cost to you.
+
+## How we label them
+
+- Every affiliate or referral link is marked Affiliate link next to the link itself, not only on this page.
+- These links carry rel="sponsored" so search engines know they are paid links.
+- **Our own product.** The UK Sole Trader Kit (£9, sold on Gumroad) is made by us. Links to it are links to our own product, not affiliate links.
+
+## What it does not change
+
+Commissions never change calculator results, figures, rankings or what we write. Tax figures come from GOV.UK. We only link to services we think are relevant, and you can always go to a provider directly instead.
+
+## Current partners
+
+We list partner links only once a programme has approved us. Right now there are none.
+
+This follows the UK CAP Code and ASA guidance that marketing must be obviously identifiable. See also our [privacy notice](https://andreiturcea-creator.github.io/uk-freelancer-kit/privacy.html).
+
+---
+Disclaimer: estimates for information only, not financial, tax or legal advice.
+
+
+<!-- https://andreiturcea-creator.github.io/uk-freelancer-kit/cookies.html -->
+# Cookies | UK Freelancer Kit
+
+Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/cookies.html
+Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
+
+
+**Short answer:** Cookie notice for UK Freelancer Kit: the site sets no cookies.
+
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/cookies.html.md)
+
+Last updated 15 October 2026.
+
+**UK Freelancer Kit does not set any cookies** and does not use similar technologies such as local storage, tracking pixels or fingerprinting. There is no analytics or advertising code on the site, so there is no cookie banner.
+
+The site is hosted on GitHub Pages, which serves static files and does not set cookies on these pages. If you click through to another site (for example Gumroad, GitHub or a partner), that site may set its own cookies under its own policy once you are there.
+
+If this ever changes, for example if we add analytics or ads, we will list every cookie here and ask for your consent before setting any that are not strictly necessary, as the Privacy and Electronic Communications Regulations (PECR) require. See also our [privacy notice](https://andreiturcea-creator.github.io/uk-freelancer-kit/privacy.html).
 
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.
@@ -32,6 +92,10 @@ Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
 Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-allowable-expenses.html.md)
 
+**General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
+
+**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 Common categories: office costs, travel (not commuting), clothing (uniforms only), staff, stock, financial costs, premises, marketing, and training related to your current business. Instead of actual costs you can use simplified expenses: [55p a mile](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mileage-allowance.html) for the first 10,000 business miles in 2026/27 (45p before 6 April 2026), then 25p, plus flat-rate working-from-home allowances. Or you can claim the £1,000 trading allowance instead of expenses.
 
 **GOV.UK sources (checked 15 October 2026):**
@@ -39,8 +103,6 @@ Common categories: office costs, travel (not commuting), clothing (uniforms only
 - [https://www.gov.uk/expenses-if-youre-self-employed](https://www.gov.uk/expenses-if-youre-self-employed)
 - [https://www.gov.uk/simpler-income-tax-simplified-expenses/vehicles](https://www.gov.uk/simpler-income-tax-simplified-expenses/vehicles)
 - [https://www.gov.uk/income-tax-rates](https://www.gov.uk/income-tax-rates)
-
-**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
 
 **Related**
 
@@ -61,6 +123,8 @@ Your first £1,000 of self-employment income is tax-free. You can claim it inste
 
 Yes, simplified expenses cover vehicles (55p a mile for the first 10,000 miles in 2026/27), working from home and living at your business premises.
 
+**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.
 
@@ -76,6 +140,10 @@ Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
 Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mileage-allowance.html.md)
 
+**General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
+
+**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 | Vehicle | 2026/27 | Before 6 April 2026 |
 |---|---|---|
 | Car or goods vehicle, first 10,000 miles | 55p | 45p |
@@ -89,8 +157,6 @@ The flat rate covers all running costs. You cannot also claim fuel or repairs, o
 **GOV.UK sources (checked 15 October 2026):**
 
 - [https://www.gov.uk/simpler-income-tax-simplified-expenses/vehicles](https://www.gov.uk/simpler-income-tax-simplified-expenses/vehicles)
-
-**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
 
 **Related**
 
@@ -115,6 +181,8 @@ No. Normal commuting is not a business journey.
 
 A log of your business miles: date, journey, purpose and miles.
 
+**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.
 
@@ -130,6 +198,10 @@ Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
 Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html.md)
 
+**General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
+
+**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 | Standard period (tax year) | Calendar period | Deadline |
 |---|---|---|
 | 6 April – 5 July | 1 April – 30 June | 7 August |
@@ -144,8 +216,6 @@ A monthly habit makes this easy: log income and expenses every month in one shee
 **GOV.UK sources (checked 15 October 2026):**
 
 - [https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates](https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates)
-
-**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
 
 **Related**
 
@@ -173,6 +243,8 @@ From 2027/28 each late update gets a penalty point, and 4 points brings a £200 
 
 Yes. You can send one any time between the end of the period and the deadline, and you can send more often as long as each update covers the full period from the start of the year.
 
+**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.
 
@@ -187,6 +259,10 @@ Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 **Short answer:** Yes, you can keep using a spreadsheet for MTD for Income Tax if you connect it to HMRC-compatible bridging software. HMRC does not provide its own software; pick a product from the GOV.UK compatible-software list.
 
 Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html.md)
+
+**General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
+
+**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
 
 HMRC does not provide its own software for MTD for Income Tax. You choose a product from the GOV.UK list. There are two main types:
 
@@ -206,8 +282,6 @@ If you prefer spreadsheets, keep income and expenses in consistent SA103 categor
 
 - [https://www.gov.uk/guidance/find-software-thats-compatible-with-making-tax-digital-for-income-tax](https://www.gov.uk/guidance/find-software-thats-compatible-with-making-tax-digital-for-income-tax)
 - [https://www.gov.uk/guidance/check-if-youre-eligible-for-making-tax-digital-for-income-tax](https://www.gov.uk/guidance/check-if-youre-eligible-for-making-tax-digital-for-income-tax)
-
-**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
 
 **Related**
 
@@ -235,6 +309,8 @@ GOV.UK says free products are available for people with simple tax affairs, thou
 
 On the GOV.UK page 'Find software that's compatible with Making Tax Digital for Income Tax', which includes a filter tool.
 
+**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.
 
@@ -249,6 +325,10 @@ Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 **Short answer:** Making Tax Digital for Income Tax applies from 6 April 2026 if your qualifying income (self-employment plus property income before expenses) was over £50,000 in 2024/25, from 6 April 2027 if over £30,000 in 2025/26, and from 6 April 2028 if over £20,000 in 2026/27.
 
 Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html.md)
+
+**General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
+
+**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
 
 Making Tax Digital (MTD) for Income Tax means keeping digital records and sending HMRC a quarterly update from compatible software. It applies to sole traders and landlords registered for Self Assessment.
 
@@ -276,8 +356,6 @@ To sign up you must be registered for Self Assessment and have submitted a retur
 - [https://www.gov.uk/guidance/check-if-youre-eligible-for-making-tax-digital-for-income-tax](https://www.gov.uk/guidance/check-if-youre-eligible-for-making-tax-digital-for-income-tax)
 - [https://www.gov.uk/guidance/work-out-your-qualifying-income-for-making-tax-digital-for-income-tax](https://www.gov.uk/guidance/work-out-your-qualifying-income-for-making-tax-digital-for-income-tax)
 - [https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates](https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates)
-
-**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
 
 **Related**
 
@@ -313,6 +391,8 @@ Yes. You still submit a Self Assessment tax return for the year before you start
 
 Possibly, for example if you are digitally excluded. Exempt people still file a normal Self Assessment return. Check the GOV.UK exemptions guidance.
 
+**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.
 
@@ -328,6 +408,10 @@ Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
 Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-payments-on-account.html.md)
 
+**General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
+
+**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 Payments on account are 2 advance payments towards your tax bill, each normally half of your previous year's bill. They are due by midnight on **31 January** and **31 July**. They do not apply if last year's bill was under £1,000, or if more than 80% of your tax was already collected at source.
 
 ## How do payments on account work in practice?
@@ -340,8 +424,6 @@ Work out your likely bill with the [self-employed tax calculator](https://andrei
 
 - [https://www.gov.uk/understand-self-assessment-bill/payments-on-account](https://www.gov.uk/understand-self-assessment-bill/payments-on-account)
 - [https://www.gov.uk/self-assessment-tax-returns/deadlines](https://www.gov.uk/self-assessment-tax-returns/deadlines)
-
-**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
 
 **Related**
 
@@ -366,6 +448,8 @@ If your tax for the year is more than your 2 payments on account, you pay the di
 
 In your first year with a bill over £1,000, the 31 January payment includes the full bill for last year plus the first payment on account for this year.
 
+**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.
 
@@ -381,6 +465,10 @@ Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
 Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html.md)
 
+**General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
+
+**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 | What | Deadline |
 |---|---|
 | Register for Self Assessment (new) | 5 October 2026 |
@@ -395,8 +483,6 @@ Miss the online deadline and you can get a late filing penalty. If you are in MT
 
 - [https://www.gov.uk/self-assessment-tax-returns/deadlines](https://www.gov.uk/self-assessment-tax-returns/deadlines)
 - [https://www.gov.uk/understand-self-assessment-bill/payments-on-account](https://www.gov.uk/understand-self-assessment-bill/payments-on-account)
-
-**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
 
 **Related**
 
@@ -422,6 +508,8 @@ Yes, if you make payments on account. The second payment is due by 31 July.
 
 If you register after 5 October 2026, you must still pay what you owe by 31 January 2027.
 
+**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.
 
@@ -436,6 +524,8 @@ Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 **Short answer:** The UK Sole Trader Kit is a £9 spreadsheet (Google Sheets and Excel) with an income log, expenses mapped to HMRC SA103 categories, a 2026/27 tax and Class 4 NI estimate, a payments-on-account reminder and an invoice template. Buy it on Gumroad; the free guides below cover MTD, deadlines and expenses.
 
 Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/index.html.md)
+
+**General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
 
 A spreadsheet that tracks income and allowable expenses using HMRC SA103 categories, estimates your tax and Class 4 NI, and includes an invoice template. Works in Google Sheets and Excel.
 
@@ -460,6 +550,42 @@ A spreadsheet that tracks income and allowable expenses using HMRC SA103 categor
 
 ## Which free calculators go with the kit?
 [Self-employed tax 2026/27](https://andreiturcea-creator.github.io/uk-money-calcs/self-employed-tax-calculator.html) · [VAT threshold checker](https://andreiturcea-creator.github.io/uk-money-calcs/vat-threshold-checker.html) · [Dividend tax](https://andreiturcea-creator.github.io/uk-money-calcs/dividend-tax-calculator.html)
+
+---
+Disclaimer: estimates for information only, not financial, tax or legal advice.
+
+
+<!-- https://andreiturcea-creator.github.io/uk-freelancer-kit/privacy.html -->
+# Privacy | UK Freelancer Kit
+
+Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/privacy.html
+Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
+
+
+**Short answer:** Privacy notice for UK Freelancer Kit: no analytics, no ads, no personal data collected.
+
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/privacy.html.md)
+
+Last updated 15 October 2026. This notice explains what happens to your information when you use UK Freelancer Kit.
+
+## The short version
+
+We do not ask for your name or email, we do not run analytics or advertising, and we do not set cookies. Anything you type into a calculator or filter box stays in your browser and is not sent to us.
+
+## What is collected
+
+- **Hosting.** The site is a static site hosted on GitHub Pages. Like any web host, GitHub receives technical data such as your IP address and browser details when your browser requests a page, and may keep it in server logs for security. See the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). We cannot see those logs.
+- **Calculators and filters.** These run entirely in your browser with JavaScript. Nothing is stored or transmitted.
+- **Buying the kit.** The UK Sole Trader Kit is sold on Gumroad. If you click through to buy, Gumroad handles the payment and your details under [its own privacy policy](https://gumroad.com/privacy). We only receive what Gumroad passes to sellers to fulfil an order.
+- **Links to other sites.** When you follow a link to another site (for example GOV.UK, GitHub or a partner), that site's own privacy policy applies.
+
+## Changes
+
+If we ever add analytics, a newsletter, ads or anything else that collects personal data, we will update this page and the [cookies page](https://andreiturcea-creator.github.io/uk-freelancer-kit/cookies.html) first, and ask for consent where the law requires it.
+
+## Your rights and contact
+
+Under UK GDPR you have rights over your personal data, including access and deletion. As we hold no personal data from browsing, there is normally nothing for us to give you. To get in touch, open an issue on the site's [GitHub repository](https://github.com/andreiturcea-creator/uk-freelancer-kit/issues) (issues are public, so do not include private details). You can also complain to the [Information Commissioner's Office](https://ico.org.uk/make-a-complaint/).
 
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.

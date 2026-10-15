@@ -8,6 +8,8 @@ Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
 Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/about.html.md)
 
+**General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
+
 Templates only. Not tax advice.
 
 ---

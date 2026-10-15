@@ -8,6 +8,10 @@ Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
 Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html.md)
 
+**General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
+
+**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 Making Tax Digital (MTD) for Income Tax means keeping digital records and sending HMRC a quarterly update from compatible software. It applies to sole traders and landlords registered for Self Assessment.
 
 ## When does MTD for Income Tax start, and at what income?
@@ -34,8 +38,6 @@ To sign up you must be registered for Self Assessment and have submitted a retur
 - [https://www.gov.uk/guidance/check-if-youre-eligible-for-making-tax-digital-for-income-tax](https://www.gov.uk/guidance/check-if-youre-eligible-for-making-tax-digital-for-income-tax)
 - [https://www.gov.uk/guidance/work-out-your-qualifying-income-for-making-tax-digital-for-income-tax](https://www.gov.uk/guidance/work-out-your-qualifying-income-for-making-tax-digital-for-income-tax)
 - [https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates](https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates)
-
-**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
 
 **Related**
 
@@ -70,6 +72,8 @@ Yes. You still submit a Self Assessment tax return for the year before you start
 ### Can I be exempt?
 
 Possibly, for example if you are digitally excluded. Exempt people still file a normal Self Assessment return. Check the GOV.UK exemptions guidance.
+
+**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
 
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.

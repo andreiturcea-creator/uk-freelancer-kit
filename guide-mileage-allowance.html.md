@@ -8,6 +8,10 @@ Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
 Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mileage-allowance.html.md)
 
+**General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
+
+**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+
 | Vehicle | 2026/27 | Before 6 April 2026 |
 |---|---|---|
 | Car or goods vehicle, first 10,000 miles | 55p | 45p |
@@ -21,8 +25,6 @@ The flat rate covers all running costs. You cannot also claim fuel or repairs, o
 **GOV.UK sources (checked 15 October 2026):**
 
 - [https://www.gov.uk/simpler-income-tax-simplified-expenses/vehicles](https://www.gov.uk/simpler-income-tax-simplified-expenses/vehicles)
-
-**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
 
 **Related**
 
@@ -46,6 +48,8 @@ No. Normal commuting is not a business journey.
 ### What records do I need?
 
 A log of your business miles: date, journey, purpose and miles.
+
+**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
 
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.
