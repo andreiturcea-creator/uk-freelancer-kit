@@ -1,0 +1,32 @@
+# UK Freelancer Kit
+
+> Free guides for UK sole traders on Making Tax Digital for Income Tax, Self Assessment deadlines, payments on account, mileage and allowable expenses (2026/27), plus the UK Sole Trader Kit, a £9 Google Sheets/Excel income, expenses and tax-estimate spreadsheet sold on Gumroad.
+
+Last updated 2026-10-15. Figures checked against GOV.UK on 2026-10-15. Every page has a Markdown twin at the same URL plus `.md`. Information only, not financial or tax advice.
+
+Product: UK Sole Trader Kit, £9 GBP, buy at https://turceapaul.gumroad.com/l/bmykeg
+
+## Guides
+
+- [Allowable expenses for UK sole traders (2026 guide)](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-allowable-expenses.html.md): Which costs you can claim on Self Assessment, simplified expenses and the £1,000 trading allowance.
+- [Self-employed mileage rate 2026/27: 55p per mile](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mileage-allowance.html.md): Simplified expenses for vehicles in 2026/27: 55p a mile for the first 10,000 business miles, then 25p; motorcycles 24p.
+- [MTD for Income Tax quarterly update deadlines 2026/27](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html.md): Making Tax Digital quarterly update dates: 7 August, 7 November, 7 February and 7 May, with standard and calendar periods.
+- [MTD for Income Tax software: can I use a spreadsheet?](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html.md): Yes, with bridging software. How to choose MTD-compatible software for Income Tax as a sole trader or landlord.
+- [Making Tax Digital for Income Tax 2026: who needs it and when](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html.md): MTD for Income Tax thresholds and start dates: £50,000 from April 2026, £30,000 from April 2027, £20,000 from April 2028.
+- [Payments on account explained (UK sole traders, 2026)](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-payments-on-account.html.md): How Self Assessment payments on account work, when they are due (31 January and 31 July) and the £1,000 and 80% exemptions.
+- [Self Assessment deadlines 2026/27: 31 January 2027 and more](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html.md): Self Assessment key dates: register by 5 October 2026, paper return 31 October 2026, online return and payment 31 January 2027, payment on account 31 July.
+
+## Pages
+
+- [UK Sole Trader Tax & Invoice Kit (Google Sheets)](https://andreiturcea-creator.github.io/uk-freelancer-kit/index.html.md): Self-assessment income and expense tracker, MTD-ready categories, invoice template and tax estimate for UK sole traders.
+
+## Data
+
+- [api/rates-2026-27.json](https://andreiturcea-creator.github.io/uk-freelancer-kit/api/rates-2026-27.json): Sole trader 2026/27 MTD thresholds, quarterly and Self Assessment deadlines, payments on account, mileage rates, with GOV.UK sources and checked date
+- [openapi.json](https://andreiturcea-creator.github.io/uk-freelancer-kit/openapi.json): OpenAPI 3.1 description of the static JSON file
+- [llms-full.txt](https://andreiturcea-creator.github.io/uk-freelancer-kit/llms-full.txt): full plain-text content of every page
+
+## Optional
+
+- [About](https://andreiturcea-creator.github.io/uk-freelancer-kit/about.html.md): who runs the site and disclosures
+- [Sitemap](https://andreiturcea-creator.github.io/uk-freelancer-kit/sitemap.xml): all URLs

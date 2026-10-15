@@ -1,0 +1,101 @@
+{
+ "name": "UK Freelancer Kit sole-trader rates, thresholds and deadlines 2026/27",
+ "tax_year": "2026/27",
+ "checked_against_govuk": "2026-10-15",
+ "last_modified": "2026-10-15",
+ "mtd_income_tax": {
+  "qualifying_income": "self-employment plus property income before expenses (turnover)",
+  "phases": [
+   {
+    "threshold_over": 50000,
+    "measured_tax_year": "2024/25",
+    "start": "2026-04-06"
+   },
+   {
+    "threshold_over": 30000,
+    "measured_tax_year": "2025/26",
+    "start": "2027-04-06"
+   },
+   {
+    "threshold_over": 20000,
+    "measured_tax_year": "2026/27",
+    "start": "2028-04-06"
+   }
+  ],
+  "quarterly_update_deadlines_2026_27": [
+   "2026-08-07",
+   "2026-11-07",
+   "2027-02-07",
+   "2027-05-07"
+  ],
+  "penalty_points": "not applied for late quarterly updates in 2026/27; from 2027/28 4 points = £200",
+  "sources": [
+   "https://www.gov.uk/guidance/check-if-youre-eligible-for-making-tax-digital-for-income-tax",
+   "https://www.gov.uk/guidance/work-out-your-qualifying-income-for-making-tax-digital-for-income-tax",
+   "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates"
+  ],
+  "status": "confirmed"
+ },
+ "self_assessment_2025_26_return": {
+  "register_by": "2026-10-05",
+  "paper_return": "2026-10-31",
+  "online_return_and_payment": "2027-01-31",
+  "second_payment_on_account": "2027-07-31",
+  "source": "https://www.gov.uk/self-assessment-tax-returns/deadlines",
+  "status": "confirmed"
+ },
+ "payments_on_account": {
+  "due": [
+   "31 January",
+   "31 July"
+  ],
+  "each": "half of previous year's bill",
+  "not_required_if": [
+   "previous bill under £1,000",
+   "more than 80% of tax collected at source"
+  ],
+  "source": "https://www.gov.uk/understand-self-assessment-bill/payments-on-account",
+  "status": "confirmed"
+ },
+ "mileage_simplified_expenses": {
+  "car_or_goods_vehicle_first_10000_miles": 0.55,
+  "car_or_goods_vehicle_after_10000_miles": 0.25,
+  "motorcycle": 0.24,
+  "first_10000_rate_before_2026_04_06": 0.45,
+  "source": "https://www.gov.uk/simpler-income-tax-simplified-expenses/vehicles",
+  "status": "confirmed"
+ },
+ "trading_allowance": {
+  "amount": 1000,
+  "source": "https://www.gov.uk/expenses-if-youre-self-employed",
+  "status": "confirmed"
+ },
+ "income_tax": {
+  "personal_allowance": 12570,
+  "basic": {
+   "to": 50270,
+   "rate": 0.2
+  },
+  "higher": {
+   "to": 125140,
+   "rate": 0.4
+  },
+  "additional_rate": 0.45,
+  "source": "https://www.gov.uk/income-tax-rates",
+  "status": "confirmed"
+ },
+ "class4_ni": {
+  "from": 12570,
+  "to": 50270,
+  "main_rate": 0.06,
+  "upper_rate": 0.02,
+  "source": "https://www.gov.uk/self-employed-national-insurance-rates",
+  "status": "confirmed"
+ },
+ "product": {
+  "name": "UK Sole Trader Kit",
+  "price": 9,
+  "currency": "GBP",
+  "url": "https://turceapaul.gumroad.com/l/bmykeg"
+ }
+}

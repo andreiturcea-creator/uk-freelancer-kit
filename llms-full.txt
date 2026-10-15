@@ -1,0 +1,465 @@
+# UK Freelancer Kit — full content
+
+> Free guides for UK sole traders on Making Tax Digital for Income Tax, Self Assessment deadlines, payments on account, mileage and allowable expenses (2026/27), plus the UK Sole Trader Kit, a £9 Google Sheets/Excel income, expenses and tax-estimate spreadsheet sold on Gumroad.
+
+Generated 2026-10-15. Each section below is one page.
+
+<!-- https://andreiturcea-creator.github.io/uk-freelancer-kit/about.html -->
+# About
+
+Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/about.html
+Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
+
+
+**Short answer:** UK Freelancer Kit sells a £9 spreadsheet template for UK sole traders and publishes free guides. Templates only, not tax advice.
+
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/about.html.md)
+
+Templates only. Not tax advice.
+
+---
+Disclaimer: estimates for information only, not financial, tax or legal advice.
+
+
+<!-- https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-allowable-expenses.html -->
+# Allowable expenses for UK sole traders (2026 guide)
+
+Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-allowable-expenses.html
+Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
+
+
+**Short answer:** Sole traders can deduct costs incurred wholly and exclusively for the business, such as office costs, business travel, stock, staff, premises, marketing and financial costs. Alternatively use simplified expenses, or the £1,000 trading allowance instead of actual expenses.
+
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-allowable-expenses.html.md)
+
+Common categories: office costs, travel (not commuting), clothing (uniforms only), staff, stock, financial costs, premises, marketing, and training related to your current business. Instead of actual costs you can use simplified expenses: [55p a mile](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mileage-allowance.html) for the first 10,000 business miles in 2026/27 (45p before 6 April 2026), then 25p, plus flat-rate working-from-home allowances. Or you can claim the £1,000 trading allowance instead of expenses.
+
+**GOV.UK sources (checked 15 October 2026):**
+
+- [https://www.gov.uk/expenses-if-youre-self-employed](https://www.gov.uk/expenses-if-youre-self-employed)
+- [https://www.gov.uk/simpler-income-tax-simplified-expenses/vehicles](https://www.gov.uk/simpler-income-tax-simplified-expenses/vehicles)
+- [https://www.gov.uk/income-tax-rates](https://www.gov.uk/income-tax-rates)
+
+**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
+
+**Related**
+
+- [Self-employed tax calculator](https://andreiturcea-creator.github.io/uk-money-calcs/self-employed-tax-calculator.html)
+- [MTD for Income Tax](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html)
+
+## Frequently asked questions
+
+### What expenses can sole traders claim?
+
+Costs incurred wholly and exclusively for the business: office costs, business travel (not commuting), uniforms, staff, stock, financial costs, premises, marketing and training for your current business.
+
+### What is the trading allowance?
+
+Your first £1,000 of self-employment income is tax-free. You can claim it instead of your actual expenses, but not both.
+
+### Can I use flat rates instead of actual costs?
+
+Yes, simplified expenses cover vehicles (55p a mile for the first 10,000 miles in 2026/27), working from home and living at your business premises.
+
+---
+Disclaimer: estimates for information only, not financial, tax or legal advice.
+
+
+<!-- https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mileage-allowance.html -->
+# Self-employed mileage rate 2026/27: 55p per mile
+
+Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mileage-allowance.html
+Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
+
+
+**Short answer:** For 2026/27 self-employed people can claim 55p a mile for the first 10,000 business miles in a car or van and 25p after that (motorcycles 24p). The first-10,000-miles rate was 45p before 6 April 2026.
+
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mileage-allowance.html.md)
+
+| Vehicle | 2026/27 | Before 6 April 2026 |
+|---|---|---|
+| Car or goods vehicle, first 10,000 miles | 55p | 45p |
+| Car or goods vehicle, after 10,000 miles | 25p | 25p |
+| Motorcycle | 24p | 24p |
+
+Example from GOV.UK: 11,000 business miles = 10,000 × 55p (£5,500) + 1,000 × 25p (£250) = £5,750.
+
+The flat rate covers all running costs. You cannot also claim fuel or repairs, or use it for a vehicle you have claimed capital allowances on.
+
+**GOV.UK sources (checked 15 October 2026):**
+
+- [https://www.gov.uk/simpler-income-tax-simplified-expenses/vehicles](https://www.gov.uk/simpler-income-tax-simplified-expenses/vehicles)
+
+**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
+
+**Related**
+
+- [Allowable expenses for sole traders](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-allowable-expenses.html)
+- [Self-employed tax calculator](https://andreiturcea-creator.github.io/uk-money-calcs/self-employed-tax-calculator.html)
+
+## Frequently asked questions
+
+### What is the mileage rate for self-employed people in 2026/27?
+
+55p per mile for the first 10,000 business miles in a car or goods vehicle, then 25p. Motorcycles are 24p. Before 6 April 2026 the first-10,000-miles rate was 45p.
+
+### Can I claim the mileage rate and fuel costs too?
+
+No. The flat rate replaces actual vehicle costs such as fuel, insurance and repairs, and you cannot use it for a vehicle you have already claimed capital allowances on.
+
+### Is commuting allowed?
+
+No. Normal commuting is not a business journey.
+
+### What records do I need?
+
+A log of your business miles: date, journey, purpose and miles.
+
+---
+Disclaimer: estimates for information only, not financial, tax or legal advice.
+
+
+<!-- https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html -->
+# MTD for Income Tax quarterly update deadlines 2026/27
+
+Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html
+Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
+
+
+**Short answer:** MTD for Income Tax quarterly updates are due by 7 August, 7 November, 7 February and 7 May. For 2026/27 that is 7 August 2026, 7 November 2026, 7 February 2027 and 7 May 2027.
+
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html.md)
+
+| Standard period (tax year) | Calendar period | Deadline |
+|---|---|---|
+| 6 April – 5 July | 1 April – 30 June | 7 August |
+| 6 April – 5 October | 1 April – 30 September | 7 November |
+| 6 April – 5 January | 1 April – 31 December | 7 February |
+| 6 April – 5 April | 1 April – 31 March | 7 May (following tax year) |
+
+For 2026/27 that means 7 August 2026, 7 November 2026, 7 February 2027 and 7 May 2027. Updates are cumulative summaries of income and expenses, not tax returns. You cannot switch between standard and calendar periods after sending a quarterly update for that year. Your return is still due by [31 January](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html).
+
+A monthly habit makes this easy: log income and expenses every month in one sheet with SA103 categories, and each quarter is a copy-and-submit job.
+
+**GOV.UK sources (checked 15 October 2026):**
+
+- [https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates](https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates)
+
+**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
+
+**Related**
+
+- [MTD for Income Tax: who needs it and when](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html)
+- [MTD quarterly update deadlines](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html)
+- [MTD software: spreadsheets and bridging](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html)
+- [Self Assessment deadlines 2026/27](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html)
+- [Self-employed tax calculator 2026/27](https://andreiturcea-creator.github.io/uk-money-calcs/self-employed-tax-calculator.html)
+
+## Frequently asked questions
+
+### What are the MTD quarterly update deadlines?
+
+7 August, 7 November, 7 February and 7 May (the following tax year). The deadlines are the same whether you use standard or calendar update periods.
+
+### What periods do the updates cover?
+
+Standard periods are cumulative from 6 April: to 5 July, 5 October, 5 January and 5 April. Calendar periods run from 1 April and end on 30 June, 30 September, 31 December and 31 March.
+
+### What if I miss a quarterly deadline?
+
+From 2027/28 each late update gets a penalty point, and 4 points brings a £200 penalty. HMRC will not apply penalty points for late quarterly updates in 2026/27.
+
+### Can I send updates early or more often?
+
+Yes. You can send one any time between the end of the period and the deadline, and you can send more often as long as each update covers the full period from the start of the year.
+
+---
+Disclaimer: estimates for information only, not financial, tax or legal advice.
+
+
+<!-- https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html -->
+# MTD for Income Tax software: can I use a spreadsheet?
+
+Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html
+Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
+
+
+**Short answer:** Yes, you can keep using a spreadsheet for MTD for Income Tax if you connect it to HMRC-compatible bridging software. HMRC does not provide its own software; pick a product from the GOV.UK compatible-software list.
+
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html.md)
+
+HMRC does not provide its own software for MTD for Income Tax. You choose a product from the GOV.UK list. There are two main types:
+
+- **Bookkeeping software** holds your records and sends your updates to HMRC.
+- **Bridging software** connects to records you keep in spreadsheets and sends the updates. GOV.UK says this explicitly: if you use spreadsheets to record income and expenses, bridging software can connect to them and make your submissions.
+
+## How do you choose MTD software?
+
+- Does it support your income types: self-employment, UK property, or both?
+- Can it send quarterly updates _and_ the end-of-year return?
+- Price: GOV.UK notes free products exist for simple tax affairs, but they may cap transactions.
+- Does it work with how you keep records today?
+
+If you prefer spreadsheets, keep income and expenses in consistent SA103 categories so the bridging tool can map them cleanly.
+
+**GOV.UK sources (checked 15 October 2026):**
+
+- [https://www.gov.uk/guidance/find-software-thats-compatible-with-making-tax-digital-for-income-tax](https://www.gov.uk/guidance/find-software-thats-compatible-with-making-tax-digital-for-income-tax)
+- [https://www.gov.uk/guidance/check-if-youre-eligible-for-making-tax-digital-for-income-tax](https://www.gov.uk/guidance/check-if-youre-eligible-for-making-tax-digital-for-income-tax)
+
+**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
+
+**Related**
+
+- [MTD for Income Tax: who needs it and when](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html)
+- [MTD quarterly update deadlines](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html)
+- [MTD software: spreadsheets and bridging](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html)
+- [Self Assessment deadlines 2026/27](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html)
+- [Self-employed tax calculator 2026/27](https://andreiturcea-creator.github.io/uk-money-calcs/self-employed-tax-calculator.html)
+
+## Frequently asked questions
+
+### Do I have to buy accounting software for MTD?
+
+No. You need software that is compatible with MTD for Income Tax. That can be bookkeeping software or bridging software connected to your spreadsheets.
+
+### What is bridging software?
+
+Software that connects to records you already keep in spreadsheets or other tools and sends your submissions to HMRC.
+
+### Is free MTD software available?
+
+GOV.UK says free products are available for people with simple tax affairs, though they may have limits, such as a cap on transactions.
+
+### Where do I find a list of compatible software?
+
+On the GOV.UK page 'Find software that's compatible with Making Tax Digital for Income Tax', which includes a filter tool.
+
+---
+Disclaimer: estimates for information only, not financial, tax or legal advice.
+
+
+<!-- https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html -->
+# Making Tax Digital for Income Tax 2026: who needs it and when
+
+Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html
+Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
+
+
+**Short answer:** Making Tax Digital for Income Tax applies from 6 April 2026 if your qualifying income (self-employment plus property income before expenses) was over £50,000 in 2024/25, from 6 April 2027 if over £30,000 in 2025/26, and from 6 April 2028 if over £20,000 in 2026/27.
+
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html.md)
+
+Making Tax Digital (MTD) for Income Tax means keeping digital records and sending HMRC a quarterly update from compatible software. It applies to sole traders and landlords registered for Self Assessment.
+
+## When does MTD for Income Tax start, and at what income?
+
+| Qualifying income over | Measured in tax year | Must use MTD from |
+|---|---|---|
+| £50,000 | 2024/25 | 6 April 2026 |
+| £30,000 | 2025/26 | 6 April 2027 |
+| £20,000 | 2026/27 | 6 April 2028 |
+
+**Qualifying income is turnover, not profit:** your total self-employment and property income before expenses. Example: £32,000 freelance turnover plus £8,000 rent is £40,000 qualifying income, so you would be in scope from April 2027 if that was your 2025/26 position.
+
+## What do you need to do?
+
+1. Keep digital records of income and expenses.
+2. Send a quarterly update for each business (see [deadlines](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html)).
+3. Submit your tax return by 31 January after the tax year.
+4. Use [compatible software](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html); spreadsheets plus bridging software are allowed.
+
+To sign up you must be registered for Self Assessment and have submitted a return in the last 2 years. HMRC will not give penalty points for late quarterly updates during 2026/27.
+
+**GOV.UK sources (checked 15 October 2026):**
+
+- [https://www.gov.uk/guidance/check-if-youre-eligible-for-making-tax-digital-for-income-tax](https://www.gov.uk/guidance/check-if-youre-eligible-for-making-tax-digital-for-income-tax)
+- [https://www.gov.uk/guidance/work-out-your-qualifying-income-for-making-tax-digital-for-income-tax](https://www.gov.uk/guidance/work-out-your-qualifying-income-for-making-tax-digital-for-income-tax)
+- [https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates](https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates)
+
+**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
+
+**Related**
+
+- [MTD for Income Tax: who needs it and when](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html)
+- [MTD quarterly update deadlines](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html)
+- [MTD software: spreadsheets and bridging](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html)
+- [Self Assessment deadlines 2026/27](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html)
+- [Self-employed tax calculator 2026/27](https://andreiturcea-creator.github.io/uk-money-calcs/self-employed-tax-calculator.html)
+
+## Frequently asked questions
+
+### Who needs Making Tax Digital for Income Tax?
+
+Sole traders and landlords registered for Self Assessment whose qualifying income (self-employment plus property income before expenses) is over the threshold for the relevant tax year.
+
+### When do I have to start MTD for Income Tax?
+
+From 6 April 2026 if your qualifying income was over £50,000 in 2024/25; from 6 April 2027 if over £30,000 in 2025/26; and from 6 April 2028 if over £20,000 in 2026/27.
+
+### Is qualifying income my profit or turnover?
+
+Turnover. GOV.UK defines qualifying income as total self-employment and property income before expenses, based on the tax return for the earlier tax year.
+
+### Does MTD apply to partnerships?
+
+Not yet. GOV.UK says partnerships will need to use it in future and HMRC will set out the timeline later.
+
+### Do I still file a tax return?
+
+Yes. You still submit a Self Assessment tax return for the year before you start, and the quarterly updates are summaries, not tax returns.
+
+### Can I be exempt?
+
+Possibly, for example if you are digitally excluded. Exempt people still file a normal Self Assessment return. Check the GOV.UK exemptions guidance.
+
+---
+Disclaimer: estimates for information only, not financial, tax or legal advice.
+
+
+<!-- https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-payments-on-account.html -->
+# Payments on account explained (UK sole traders, 2026)
+
+Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-payments-on-account.html
+Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
+
+
+**Short answer:** Payments on account are 2 advance payments towards your next tax bill, each normally half of last year's bill, due by 31 January and 31 July. You do not make them if last year's bill was under £1,000 or more than 80% of your tax was collected at source.
+
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-payments-on-account.html.md)
+
+Payments on account are 2 advance payments towards your tax bill, each normally half of your previous year's bill. They are due by midnight on **31 January** and **31 July**. They do not apply if last year's bill was under £1,000, or if more than 80% of your tax was already collected at source.
+
+## How do payments on account work in practice?
+
+Your 2025/26 bill is £4,000 and you have not paid on account before. By 31 January 2027 you pay £4,000 plus a £2,000 first payment on account for 2026/27, so £6,000. By 31 July 2027 you pay another £2,000. If your 2026/27 bill turns out to be £5,000, you pay a £1,000 balancing payment by 31 January 2028, plus the first payment on account for 2027/28.
+
+Work out your likely bill with the [self-employed tax calculator](https://andreiturcea-creator.github.io/uk-money-calcs/self-employed-tax-calculator.html), then set aside a monthly amount.
+
+**GOV.UK sources (checked 15 October 2026):**
+
+- [https://www.gov.uk/understand-self-assessment-bill/payments-on-account](https://www.gov.uk/understand-self-assessment-bill/payments-on-account)
+- [https://www.gov.uk/self-assessment-tax-returns/deadlines](https://www.gov.uk/self-assessment-tax-returns/deadlines)
+
+**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
+
+**Related**
+
+- [Self Assessment deadlines](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html)
+- [MTD for Income Tax](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html)
+
+## Frequently asked questions
+
+### What are payments on account?
+
+Advance payments towards your next tax bill, each normally half of last year's bill, due by 31 January and 31 July.
+
+### Who does not have to make payments on account?
+
+You do not if last year's Self Assessment bill was less than £1,000, or if you paid more than 80% of the tax you owed through your tax code or other deductions.
+
+### What is a balancing payment?
+
+If your tax for the year is more than your 2 payments on account, you pay the difference by 31 January the following year.
+
+### Why is my first January bill so big?
+
+In your first year with a bill over £1,000, the 31 January payment includes the full bill for last year plus the first payment on account for this year.
+
+---
+Disclaimer: estimates for information only, not financial, tax or legal advice.
+
+
+<!-- https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html -->
+# Self Assessment deadlines 2026/27: 31 January 2027 and more
+
+Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html
+Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
+
+
+**Short answer:** For the 2025/26 tax return: register by 5 October 2026, file a paper return by 31 October 2026, and file online and pay by 31 January 2027. The second payment on account is due by 31 July 2027.
+
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html.md)
+
+| What | Deadline |
+|---|---|
+| Register for Self Assessment (new) | 5 October 2026 |
+| Paper tax return | 31 October 2026 |
+| Online tax return | 11:59pm, 31 January 2027 |
+| Pay tax owed + 1st payment on account for 2026/27 | 31 January 2027 |
+| 2nd payment on account | 31 July 2027 |
+
+Miss the online deadline and you can get a late filing penalty. If you are in MTD for Income Tax, quarterly updates also apply: see the [MTD deadlines](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html).
+
+**GOV.UK sources (checked 15 October 2026):**
+
+- [https://www.gov.uk/self-assessment-tax-returns/deadlines](https://www.gov.uk/self-assessment-tax-returns/deadlines)
+- [https://www.gov.uk/understand-self-assessment-bill/payments-on-account](https://www.gov.uk/understand-self-assessment-bill/payments-on-account)
+
+**UK Sole Trader Kit (£9):** income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, payments-on-account reminder and an invoice template, for Google Sheets and Excel. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Buy, £9](https://turceapaul.gumroad.com/l/bmykeg)
+
+**Related**
+
+- [Payments on account explained](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-payments-on-account.html)
+- [Self-employed tax calculator](https://andreiturcea-creator.github.io/uk-money-calcs/self-employed-tax-calculator.html)
+- [Allowable expenses](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-allowable-expenses.html)
+
+## Frequently asked questions
+
+### When is the 2025/26 Self Assessment deadline?
+
+Paper returns by 31 October 2026, online returns by 11:59pm on 31 January 2027, and any tax owed paid by 31 January 2027.
+
+### When must I register for Self Assessment?
+
+By 5 October after the end of the tax year you need to file for, for example 5 October 2026 for 2025/26.
+
+### Is there a July payment?
+
+Yes, if you make payments on account. The second payment is due by 31 July.
+
+### I registered late. When is my deadline?
+
+If you register after 5 October 2026, you must still pay what you owe by 31 January 2027.
+
+---
+Disclaimer: estimates for information only, not financial, tax or legal advice.
+
+
+<!-- https://andreiturcea-creator.github.io/uk-freelancer-kit/index.html -->
+# UK Sole Trader Tax & Invoice Kit (Google Sheets) | £9
+
+Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/
+Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
+
+
+**Short answer:** The UK Sole Trader Kit is a £9 spreadsheet (Google Sheets and Excel) with an income log, expenses mapped to HMRC SA103 categories, a 2026/27 tax and Class 4 NI estimate, a payments-on-account reminder and an invoice template. Buy it on Gumroad; the free guides below cover MTD, deadlines and expenses.
+
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/index.html.md)
+
+A spreadsheet that tracks income and allowable expenses using HMRC SA103 categories, estimates your tax and Class 4 NI, and includes an invoice template. Works in Google Sheets and Excel.
+
+- Income log, plus expenses mapped to SA103 boxes
+- Live tax and NI estimate for 2026/27
+- Payments-on-account reminder
+- Invoice template
+- MTD for Income Tax: who it applies to from April 2026 (£50k+) and April 2027 (£30k+)
+[Download a free sample sheet (CSV)](https://andreiturcea-creator.github.io/uk-freelancer-kit/sample.csv)
+
+[Buy the kit, £9](https://turceapaul.gumroad.com/l/bmykeg)
+
+## Which free guides are available?
+
+- [Making Tax Digital for Income Tax: who needs it and when](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html)
+- [MTD quarterly update deadlines](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html)
+- [MTD software: spreadsheets and bridging](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html)
+- [Self Assessment deadlines 2026/27](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html)
+- [Payments on account explained](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-payments-on-account.html)
+- [Mileage allowance 2026/27 (55p)](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mileage-allowance.html)
+- [Allowable expenses for sole traders](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-allowable-expenses.html)
+
+## Which free calculators go with the kit?
+[Self-employed tax 2026/27](https://andreiturcea-creator.github.io/uk-money-calcs/self-employed-tax-calculator.html) · [VAT threshold checker](https://andreiturcea-creator.github.io/uk-money-calcs/vat-threshold-checker.html) · [Dividend tax](https://andreiturcea-creator.github.io/uk-money-calcs/dividend-tax-calculator.html)
+
+---
+Disclaimer: estimates for information only, not financial, tax or legal advice.
