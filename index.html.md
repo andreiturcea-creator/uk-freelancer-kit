@@ -3,9 +3,6 @@
 Source: https://kit.andreiturcea.com/
 Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
-Guides and templates for UK sole traders
-
-# The UK Sole Trader Kit: £9
 
 **Short answer:** The UK Sole Trader Kit is a £9 spreadsheet (Google Sheets and Excel) with an income log, expenses mapped to HMRC SA103 categories, a 2026/27 tax and Class 4 NI estimate, a payments-on-account reminder and an invoice template. Buy it on Gumroad; the free guides below cover MTD, deadlines and expenses.
 
@@ -24,7 +21,7 @@ A spreadsheet that tracks income and allowable expenses using HMRC SA103 categor
 
 [Buy the kit, £9](https://turceapaul.gumroad.com/l/bmykeg)
 
-## Free guides
+## Which free guides are available?
 
 - [Making Tax Digital for Income Tax: who needs it and when](https://kit.andreiturcea.com/guide-mtd.html)
 - [MTD quarterly update deadlines](https://kit.andreiturcea.com/guide-mtd-quarterly-deadlines.html)
