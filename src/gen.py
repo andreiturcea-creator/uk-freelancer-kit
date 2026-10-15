@@ -10,7 +10,7 @@ table{border-collapse:collapse;width:100%}td,th{border-bottom:1px solid #eee;pad
 def page(d,fn,title,desc,body,nav):
     os.makedirs(d,exist_ok=True)
     open(f"{d}/{fn}","w").write(f"""<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{title}</title><meta name="description" content="{desc}"><link rel="stylesheet" href="style.css"></head><body>
+<title>{title}</title><meta name="description" content="{desc}"><meta name="google-site-verification" content="4ClukxyHFtP7GSHUR0D75dGuQpNh220_u6YMPQ5exTw" /><link rel="stylesheet" href="style.css"></head><body>
 <header><h3><a href="index.html" style="text-decoration:none">{nav}</a></h3></header>{body}
 <footer><b>Disclaimer:</b> estimates for information only, not financial, tax or legal advice. Rates last checked against GOV.UK on 15 October 2026 (2026/27 tax year). Confirm with GOV.UK or a qualified adviser before acting. · <a href="about.html">About & disclosures</a></footer></body></html>""")
     open(f"{d}/style.css","w").write(CSS)
