@@ -12,7 +12,7 @@ def page(d,fn,title,desc,body,nav):
     open(f"{d}/{fn}","w").write(f"""<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title}</title><meta name="description" content="{desc}"><link rel="stylesheet" href="style.css"></head><body>
 <header><h3><a href="index.html" style="text-decoration:none">{nav}</a></h3></header>{body}
-<footer><b>Disclaimer:</b> estimates for information only, not financial, tax or legal advice. Rates last checked against GOV.UK on 15 October 2026 (2026/27 tax year). Confirm with GOV.UK or a qualified adviser before acting. · <a href="about.html">About &amp; disclosures</a></footer></body></html>""")
+<footer><b>Disclaimer:</b> estimates for information only, not financial, tax or legal advice. Rates last checked against GOV.UK on 15 October 2026 (2026/27 tax year). Confirm with GOV.UK or a qualified adviser before acting. · <a href="about.html">About & disclosures</a></footer></body></html>""")
     open(f"{d}/style.css","w").write(CSS)
 
 # ---------- 1. UK calculators ----------
@@ -32,7 +32,7 @@ function calc(){let s=+S('s'),p=s*(+S('p'))/100,g=s-p,t=tax(g),ni=Math.max(0,Mat
 o.innerHTML=`<table><tr><th></th><th>Year</th><th>Month</th></tr>${[['Pension',p],['Income tax',t],['National Insurance',ni],['Student loan',l],['<b>Take-home</b>',n]].map(r=>`<tr><td>${r[0]}</td><td>£${r[1].toFixed(0)}</td><td>£${(r[1]/12).toFixed(0)}</td></tr>`).join('')}</table>`}
 function S(i){return document.getElementById(i).value}calc()</script>"""),
 "stamp-duty.html":("Stamp Duty Calculator England 2026","Stamp Duty Land Tax calculator for England and Northern Ireland, covering first-time buyer relief and the 5% surcharge on additional properties.","""
-<h1>Stamp Duty (SDLT) calculator: England &amp; NI</h1><div class=card>
+<h1>Stamp Duty (SDLT) calculator: England & NI</h1><div class=card>
 <label>Property price £ <input id=v type=number value=300000></label><br><br>
 <label><input type=radio name=b value=m checked> Moving home</label> <label><input type=radio name=b value=f> First-time buyer</label> <label><input type=radio name=b value=a> Additional property (+5%)</label><br><br>
 <button onclick=c()>Calculate</button><h2 id=o></h2></div>
@@ -93,7 +93,7 @@ d=f"{B}/uk-freelancer-kit/site"
 page(d,"index.html","UK Sole Trader Tax & Invoice Kit (Google Sheets) | £9","Self-assessment income and expense tracker, MTD-ready categories, invoice template and tax estimate for UK sole traders.",
 """<h1>The UK Sole Trader Kit: £9</h1><p>A spreadsheet that tracks income and allowable expenses using HMRC SA103 categories, estimates your tax and Class 4 NI, and includes an invoice template. Works in Google Sheets and Excel.</p>
 <div class=card><ul><li>Income log, plus expenses mapped to SA103 boxes</li><li>Live tax and NI estimate for 2026/27</li><li>Payments-on-account reminder</li><li>Invoice template</li><li>MTD for Income Tax: who it applies to from April 2026 (£50k+) and April 2027 (£30k+)</li></ul>
-<a href="sample.csv">Download a free sample sheet (CSV)</a><br><br><button disabled style="background:#999">Buy: £9 (coming soon)</button></div>
+<a href="sample.csv">Download a free sample sheet (CSV)</a><br><br><a href="https://turceapaul.gumroad.com/l/bmykeg"><button>Buy the kit, £9</button></a></div>
 <h2>Free guides</h2><a href="guide-allowable-expenses.html">Allowable expenses for sole traders</a> · <a href="guide-mtd.html">Making Tax Digital 2026 explained</a>""","UK Freelancer Kit")
 page(d,"guide-allowable-expenses.html","Allowable expenses for UK sole traders (2026 guide)","Which costs you can claim on self-assessment.","<h1>Allowable expenses</h1><p>Common categories: office costs, travel (not commuting), clothing (uniforms only), staff, stock, financial costs, premises, marketing, training related to your current business. Instead of actual costs you can use simplified expenses: 55p/mile for the first 10,000 business miles (rate raised from 45p in June 2026), then 25p, and flat-rate working-from-home allowances. You can choose the £1,000 trading allowance instead of claiming expenses.</p><p>Source: GOV.UK, 'Expenses if you're self-employed'.</p>","UK Freelancer Kit")
 page(d,"guide-mtd.html","Making Tax Digital for Income Tax 2026 explained","Who needs MTD ITSA and when.","<h1>MTD for Income Tax</h1><p>From 6 April 2026, sole traders and landlords with qualifying income over £50,000 must keep digital records and send quarterly updates. The threshold drops to £30,000 from April 2027 and £20,000 from April 2028. You need compatible software; a spreadsheet with bridging software is allowed.</p>","UK Freelancer Kit")
