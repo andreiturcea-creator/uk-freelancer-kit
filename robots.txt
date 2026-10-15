@@ -45,4 +45,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://andreiturcea-creator.github.io/uk-freelancer-kit/sitemap.xml
+Sitemap: https://kit.andreiturcea.com/sitemap.xml

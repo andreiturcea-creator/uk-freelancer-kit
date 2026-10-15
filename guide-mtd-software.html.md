@@ -1,16 +1,16 @@
 # MTD for Income Tax software: can I use a spreadsheet?
 
-Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html
+Source: https://kit.andreiturcea.com/guide-mtd-software.html
 Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
 
 **Short answer:** Yes, you can keep using a spreadsheet for MTD for Income Tax if you connect it to HMRC-compatible bridging software. HMRC does not provide its own software; pick a product from the GOV.UK compatible-software list.
 
-Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html.md)
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://kit.andreiturcea.com/guide-mtd-software.html.md)
 
 **General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
 
-**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://kit.andreiturcea.com/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
 
 HMRC does not provide its own software for MTD for Income Tax. You choose a product from the GOV.UK list. There are two main types:
 
@@ -33,11 +33,11 @@ If you prefer spreadsheets, keep income and expenses in consistent SA103 categor
 
 **Related**
 
-- [MTD for Income Tax: who needs it and when](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html)
-- [MTD quarterly update deadlines](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html)
-- [MTD software: spreadsheets and bridging](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html)
-- [Self Assessment deadlines 2026/27](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html)
-- [Self-employed tax calculator 2026/27](https://andreiturcea-creator.github.io/uk-money-calcs/self-employed-tax-calculator.html)
+- [MTD for Income Tax: who needs it and when](https://kit.andreiturcea.com/guide-mtd.html)
+- [MTD quarterly update deadlines](https://kit.andreiturcea.com/guide-mtd-quarterly-deadlines.html)
+- [MTD software: spreadsheets and bridging](https://kit.andreiturcea.com/guide-mtd-software.html)
+- [Self Assessment deadlines 2026/27](https://kit.andreiturcea.com/guide-self-assessment-deadlines.html)
+- [Self-employed tax calculator 2026/27](https://calcs.andreiturcea.com/self-employed-tax-calculator.html)
 
 ## Frequently asked questions
 
@@ -57,7 +57,7 @@ GOV.UK says free products are available for people with simple tax affairs, thou
 
 On the GOV.UK page 'Find software that's compatible with Making Tax Digital for Income Tax', which includes a filter tool.
 
-**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://kit.andreiturcea.com/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
 
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.

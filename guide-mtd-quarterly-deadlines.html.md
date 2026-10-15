@@ -1,16 +1,16 @@
 # MTD for Income Tax quarterly update deadlines 2026/27
 
-Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html
+Source: https://kit.andreiturcea.com/guide-mtd-quarterly-deadlines.html
 Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
 
 **Short answer:** MTD for Income Tax quarterly updates are due by 7 August, 7 November, 7 February and 7 May. For 2026/27 that is 7 August 2026, 7 November 2026, 7 February 2027 and 7 May 2027.
 
-Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html.md)
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://kit.andreiturcea.com/guide-mtd-quarterly-deadlines.html.md)
 
 **General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
 
-**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://kit.andreiturcea.com/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
 
 | Standard period (tax year) | Calendar period | Deadline |
 |---|---|---|
@@ -19,7 +19,7 @@ Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 ·
 | 6 April – 5 January | 1 April – 31 December | 7 February |
 | 6 April – 5 April | 1 April – 31 March | 7 May (following tax year) |
 
-For 2026/27 that means 7 August 2026, 7 November 2026, 7 February 2027 and 7 May 2027. Updates are cumulative summaries of income and expenses, not tax returns. You cannot switch between standard and calendar periods after sending a quarterly update for that year. Your return is still due by [31 January](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html).
+For 2026/27 that means 7 August 2026, 7 November 2026, 7 February 2027 and 7 May 2027. Updates are cumulative summaries of income and expenses, not tax returns. You cannot switch between standard and calendar periods after sending a quarterly update for that year. Your return is still due by [31 January](https://kit.andreiturcea.com/guide-self-assessment-deadlines.html).
 
 A monthly habit makes this easy: log income and expenses every month in one sheet with SA103 categories, and each quarter is a copy-and-submit job.
 
@@ -29,11 +29,11 @@ A monthly habit makes this easy: log income and expenses every month in one shee
 
 **Related**
 
-- [MTD for Income Tax: who needs it and when](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html)
-- [MTD quarterly update deadlines](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-quarterly-deadlines.html)
-- [MTD software: spreadsheets and bridging](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd-software.html)
-- [Self Assessment deadlines 2026/27](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html)
-- [Self-employed tax calculator 2026/27](https://andreiturcea-creator.github.io/uk-money-calcs/self-employed-tax-calculator.html)
+- [MTD for Income Tax: who needs it and when](https://kit.andreiturcea.com/guide-mtd.html)
+- [MTD quarterly update deadlines](https://kit.andreiturcea.com/guide-mtd-quarterly-deadlines.html)
+- [MTD software: spreadsheets and bridging](https://kit.andreiturcea.com/guide-mtd-software.html)
+- [Self Assessment deadlines 2026/27](https://kit.andreiturcea.com/guide-self-assessment-deadlines.html)
+- [Self-employed tax calculator 2026/27](https://calcs.andreiturcea.com/self-employed-tax-calculator.html)
 
 ## Frequently asked questions
 
@@ -53,7 +53,7 @@ From 2027/28 each late update gets a penalty point, and 4 points brings a £200 
 
 Yes. You can send one any time between the end of the period and the deadline, and you can send more often as long as each update covers the full period from the start of the year.
 
-**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://kit.andreiturcea.com/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
 
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.

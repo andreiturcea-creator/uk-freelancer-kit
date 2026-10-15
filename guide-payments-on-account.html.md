@@ -1,16 +1,16 @@
 # Payments on account explained (UK sole traders, 2026)
 
-Source: https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-payments-on-account.html
+Source: https://kit.andreiturcea.com/guide-payments-on-account.html
 Last updated: 2026-10-15 · Last checked against GOV.UK: 2026-10-15
 
 
 **Short answer:** Payments on account are 2 advance payments towards your next tax bill, each normally half of last year's bill, due by 31 January and 31 July. You do not make them if last year's bill was under £1,000 or more than 80% of your tax was collected at source.
 
-Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-payments-on-account.html.md)
+Last updated: 15 October 2026 · Last checked against GOV.UK: 15 October 2026 · [Markdown version](https://kit.andreiturcea.com/guide-payments-on-account.html.md)
 
 **General information, not tax or financial advice.** Check GOV.UK or speak to a qualified adviser about your own situation.
 
-**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+**Keeping your own records?** The UK Sole Trader Kit is a £9 spreadsheet for Google Sheets and Excel: an income log, expenses mapped to SA103 boxes, a live 2026/27 tax and Class 4 NI estimate, and an invoice template. [See what is inside](https://kit.andreiturcea.com/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
 
 Payments on account are 2 advance payments towards your tax bill, each normally half of your previous year's bill. They are due by midnight on **31 January** and **31 July**. They do not apply if last year's bill was under £1,000, or if more than 80% of your tax was already collected at source.
 
@@ -18,7 +18,7 @@ Payments on account are 2 advance payments towards your tax bill, each normally 
 
 Your 2025/26 bill is £4,000 and you have not paid on account before. By 31 January 2027 you pay £4,000 plus a £2,000 first payment on account for 2026/27, so £6,000. By 31 July 2027 you pay another £2,000. If your 2026/27 bill turns out to be £5,000, you pay a £1,000 balancing payment by 31 January 2028, plus the first payment on account for 2027/28.
 
-Work out your likely bill with the [self-employed tax calculator](https://andreiturcea-creator.github.io/uk-money-calcs/self-employed-tax-calculator.html), then set aside a monthly amount.
+Work out your likely bill with the [self-employed tax calculator](https://calcs.andreiturcea.com/self-employed-tax-calculator.html), then set aside a monthly amount.
 
 **GOV.UK sources (checked 15 October 2026):**
 
@@ -27,8 +27,8 @@ Work out your likely bill with the [self-employed tax calculator](https://andrei
 
 **Related**
 
-- [Self Assessment deadlines](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-self-assessment-deadlines.html)
-- [MTD for Income Tax](https://andreiturcea-creator.github.io/uk-freelancer-kit/guide-mtd.html)
+- [Self Assessment deadlines](https://kit.andreiturcea.com/guide-self-assessment-deadlines.html)
+- [MTD for Income Tax](https://kit.andreiturcea.com/guide-mtd.html)
 
 ## Frequently asked questions
 
@@ -48,7 +48,7 @@ If your tax for the year is more than your 2 payments on account, you pay the di
 
 In your first year with a bill over £1,000, the 31 January payment includes the full bill for last year plus the first payment on account for this year.
 
-**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://andreiturcea-creator.github.io/uk-freelancer-kit/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
+**Want this in a spreadsheet?** If you would rather not build your own tracker, the UK Sole Trader Kit (£9, Google Sheets and Excel) logs income, maps expenses to SA103 boxes, estimates your 2026/27 Income Tax and Class 4 NI, reminds you about payments on account and includes an invoice template. It is a template, not advice, and the free guides here stay free. [See what is inside](https://kit.andreiturcea.com/) · [Get the kit (£9)](https://turceapaul.gumroad.com/l/bmykeg)
 
 ---
 Disclaimer: estimates for information only, not financial, tax or legal advice.
